@@ -161,7 +161,7 @@ KrishiQ is built on the modern React / Next.js ecosystem using standard packages
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-org/agrilogistics-krishiq.git
+   git clone https://github.com/Subhayan_06/agrilogistics-krishiq.git
    cd agrilogistics-krishiq
    ```
 
@@ -196,6 +196,4 @@ Deploying KrishiQ to **Vercel** requires zero additional configuration:
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
